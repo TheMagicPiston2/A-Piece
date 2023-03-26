@@ -1,0 +1,524 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Saitama: Killer Move." ,"All")
+
+
+wait(.7)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Saitama: Serious Series." ,"All")
+
+
+wait(.7)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Saitama: Serious Table Flip!" ,"All")
+
+local args = {
+    [1] = CFrame.new(-55.759346, 3.445364, -438.791138, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-55.75934600830078, 3.445363998413086, -438.7911376953125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(8.59695244, 3.445364, -437.895203, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(8.596952438354492, 3.445363998413086, -437.89520263671875)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(85.7443619, 3.445364, -438.466797, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(85.7443618774414, 3.445363998413086, -438.466796875)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(196.063995, 20.245266, -444.395203, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(196.06399536132812, 20.24526596069336, -444.39520263671875)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-62.9966278, 16.6252594, -415.462463, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-62.99662780761719, 16.625259399414062, -415.46246337890625)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(4.10205269, 3.445364, -423.352356, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(4.102052688598633, 3.445363998413086, -423.35235595703125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(54.8693771, 3.88536096, -420.183868, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(54.86937713623047, 3.8853609561920166, -420.1838684082031)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(107.132401, 24.1452293, -430.374878, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(107.13240051269531, 24.14522933959961, -430.3748779296875)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(148.892319, 27.0891113, -436.168762, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(148.89231872558594, 27.089111328125, -436.16876220703125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-76.6201172, 4.10010386, -373.784149, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-76.6201171875, 4.100103855133057, -373.7841491699219)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-0.980382919, 3.445364, -376.209106, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-0.9803829193115234, 3.445363998413086, -376.2091064453125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(15.1854982, 3.445364, -356.050812, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(15.185498237609863, 3.445363998413086, -356.0508117675781)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(63.6422462, 18.8818207, -362.367096, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(63.64224624633789, 18.881820678710938, -362.3670959472656)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(115.779022, 26.9453659, -357.165466, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(115.77902221679688, 26.94536590576172, -357.16546630859375)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(168.230316, 27.8395081, -357.723785, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(168.23031616210938, 27.839508056640625, -357.7237854003906)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(205.597061, 27.5452728, -361.473816, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(205.59706115722656, 27.545272827148438, -361.47381591796875)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(258.630432, 26.9453659, -354.825989, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(258.63043212890625, 26.94536590576172, -354.82598876953125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [2] = Vector3.new(258.63043212890625, 26.94536590576172, -354.82598876953125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(251.130417, 26.9453659, -386.292969, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(251.1304168701172, 26.94536590576172, -386.29296875)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(262.570923, 26.9453659, -320.4599, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(262.5709228515625, 26.94536590576172, -320.45989990234375)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(191.303833, 27.5452728, -333.81839, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(191.3038330078125, 27.545272827148438, -333.8183898925781)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+local args = {
+    [1] = CFrame.new(191.303833, 27.5452728, -333.81839, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(191.3038330078125, 27.545272827148438, -333.8183898925781)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [2] = Vector3.new(262.5709228515625, 26.94536590576172, -320.45989990234375)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(253.930466, 26.9453659, -369.418793, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(253.9304656982422, 26.94536590576172, -369.4187927246094)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(233.749252, 30.684288, -397.782623, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(233.74925231933594, 30.684288024902344, -397.7826232910156)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(130.68045, 26.9453659, -346.830719, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(130.68045043945312, 26.94536590576172, -346.8307189941406)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(74.5455704, 27.5452728, -341.822479, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(74.54557037353516, 27.545272827148438, -341.8224792480469)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(18.4324169, 3.88536096, -334.389648, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(18.432416915893555, 3.8853609561920166, -334.3896484375)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-29.7694016, 3.88536096, -342.220337, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-29.76940155029297, 3.8853609561920166, -342.2203369140625)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-68.174675, 3.88536096, -342.108246, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-68.17467498779297, 3.8853609561920166, -342.1082458496094)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(11.7385426, 3.88536096, -306.019989, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(11.738542556762695, 3.8853609561920166, -306.0199890136719)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-50.5550156, 12.0787201, -293.603149, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-50.555015563964844, 12.078720092773438, -293.6031494140625)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(63.6942749, 19.7818451, -295.803223, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(63.69427490234375, 19.781845092773438, -295.80322265625)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(99.8190384, 35.045208, -306.7547, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(99.81903839111328, 35.04520797729492, -306.75469970703125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(128.752045, 26.9453659, -300.61145, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(128.75204467773438, 26.94536590576172, -300.6114501953125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(190.776581, 26.9453659, -302.509216, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(190.77658081054688, 26.94536590576172, -302.50921630859375)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(234.523666, 48.0451927, -298.644836, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(234.52366638183594, 48.04519271850586, -298.64483642578125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(290.478516, 29.5452385, -298.172668, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(290.478515625, 29.545238494873047, -298.17266845703125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-89.1171494, 12.0993805, -272.280243, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-89.11714935302734, 12.099380493164062, -272.2802429199219)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(9.71651649, 3.445364, -275.612732, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(9.716516494750977, 3.445363998413086, -275.61273193359375)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(73.2042389, 25.3376694, -258.169891, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(73.20423889160156, 25.337669372558594, -258.1698913574219)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(105.162155, 44.3451805, -247.269257, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(105.16215515136719, 44.34518051147461, -247.26925659179688)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(156.084534, 44.3451805, -248.019028, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(156.08453369140625, 44.34518051147461, -248.01902770996094)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(230.053497, 27.3818054, -244.808411, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(230.05349731445312, 27.381805419921875, -244.80841064453125)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-75.9809341, 3.88536096, -217.683472, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-75.9809341430664, 3.8853609561920166, -217.6834716796875)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(6.84300232, 3.88536096, -235.834457, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(6.8430023193359375, 3.8853609561920166, -235.83445739746094)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-2.84206724, 71.8521194, -198.225754, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-2.842067241668701, 71.85211944580078, -198.2257537841797)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(109.314812, 39.0451927, -219.975922, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(109.31481170654297, 39.04519271850586, -219.97592163085938)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(165.232101, 43.0451927, -218.641937, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(165.2321014404297, 43.04519271850586, -218.64193725585938)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(213.555771, 27.3818054, -218.143921, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(213.55577087402344, 27.381805419921875, -218.1439208984375)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(106.754265, 13.0606308, -191.312225, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(106.75426483154297, 13.060630798339844, -191.31222534179688)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(156.59256, 22.9452858, -184.133545, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(156.59255981445312, 22.94528579711914, -184.133544921875)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-78.9084091, 4.10827446, -156.400787, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-78.90840911865234, 4.108274459838867, -156.40078735351562)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-9.29251862, 3.21410179, -152.403122, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-9.292518615722656, 3.214101791381836, -152.4031219482422)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(53.4326706, 3.38010406, -152.667618, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(53.43267059326172, 3.3801040649414062, -152.66761779785156)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(106.787079, 4.28327942, -149.446838, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(106.78707885742188, 4.2832794189453125, -149.44683837890625)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(106.787079, 4.28327942, -149.446838, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(106.78707885742188, 4.2832794189453125, -149.44683837890625)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-67.7964325, 4.10827446, -126.623711, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-67.79643249511719, 4.108274459838867, -126.62371063232422)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(4.81019211, 3.21410179, -127.754272, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(4.810192108154297, 3.214101791381836, -127.7542724609375)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(69.3635254, 3.37177467, -129.821991, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(69.363525390625, 3.371774673461914, -129.82199096679688)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(109.958847, 4.10827446, -129.943909, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(109.95884704589844, 4.108274459838867, -129.94390869140625)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(155.536407, 5.58156013, -124.331779, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(155.53640747070312, 5.581560134887695, -124.33177947998047)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-41.740036, 4.78102112, -100.499352, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-41.74003601074219, 4.7810211181640625, -100.49935150146484)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(51.837513, 3.43300629, -109.940155, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(51.8375129699707, 3.4330062866210938, -109.94015502929688)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(125.441711, 4.5175972, -113.004135, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(125.44171142578125, 4.517597198486328, -113.00413513183594)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(46.1393204, 3.44536591, -202.951065, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(46.139320373535156, 3.4453659057617188, -202.95106506347656)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-3.83791733, 71.9575272, -200.010757, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-3.8379173278808594, 71.95752716064453, -200.01075744628906)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(61.6696854, 3.44536591, -166.979279, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(61.66968536376953, 3.4453659057617188, -166.97927856445312)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-8.33865261, 63.6440392, -173.146957, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-8.338652610778809, 63.644039154052734, -173.14695739746094)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-49.7225189, 64.0970917, -290.225647, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-49.72251892089844, 64.09709167480469, -290.22564697265625)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-59.7648239, 50.3627853, -381.472229, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-59.76482391357422, 50.36278533935547, -381.47222900390625)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(103.034737, 68.1680984, -283.727692, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(103.03473663330078, 68.16809844970703, -283.7276916503906)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(90.7582855, 55.9668961, -333.920563, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(90.75828552246094, 55.966896057128906, -333.9205627441406)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
+
+local args = {
+    [1] = CFrame.new(-1.62613106, 70.9451447, -216.036667, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [2] = Vector3.new(-1.6261310577392578, 70.94514465332031, -216.0366668701172)
+}
+
+game:GetService("Players").LocalPlayer.Character.String.GodThread.RemoteEvent:FireServer(unpack(args))
