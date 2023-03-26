@@ -1,0 +1,16 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("System: Saitama Stand Made By No One." ,"All")
+
+
+wait(.7)
+wait(.7)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Status: In Development!" ,"All")
+
+
+wait(.7)
+wait(.7)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("System: Sending Keybinds!" ,"All")
+
+
+wait(.7)
+wait(.7)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Saitama: Custom Stand Loaded!" ,"All")
