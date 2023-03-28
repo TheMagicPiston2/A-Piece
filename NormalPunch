@@ -1,0 +1,8 @@
+local args = {
+    [1] = "DarkYamato",
+    [2] = "M1",
+    [3] = 2,
+    [4] = CFrame.new(-104.547104, 3.445364, -336.99585, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Cast"):FireServer(unpack(args))
