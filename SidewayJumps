@@ -1,0 +1,35 @@
+local speed = 0.04 
+
+-- the speed settings it can make an
+-- after image
+
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Saitama: Killer Move;", "All")
+
+wait(.7)
+
+local plr = game:GetService"Players".LocalPlayer
+local char = plr.Character or plr.CharacterAdded:Wait()
+local hroot = char:WaitForChild("HumanoidRootPart")
+
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Saitama: Serious Series...", "All")
+
+wait(.7)
+wait(.7)
+
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Saitama: Serious Sideway Jumps!", "All")
+
+local tfo = TweenInfo.new(
+    speed,
+    Enum.EasingStyle.Linear,
+    Enum.EasingDirection.In,
+    -1,
+    true,
+    -1
+)
+
+function playtween()
+local tw2 = game:GetService("TweenService"):Create(hroot, tfo, {CFrame = hroot.CFrame * CFrame.new(-29,0,0)})
+tw2:Play()
+end
+
+playtween()
