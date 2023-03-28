@@ -1,0 +1,5 @@
+local args = {
+    [1] = "Geppo"
+}
+
+game:GetService("Players").LocalPlayer.Character.CharacterHandler.RemoteEvent:FireServer(unpack(args))
