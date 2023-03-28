@@ -1,0 +1,11 @@
+local args = {
+    [1] = game:GetService("Players").LocalPlayer,
+    [3] = {
+        ["TypeSelect"] = "Attack",
+        ["MousePos"] = Vector3.new(10.673322677612305, 16.099987030029297, -345.6593322753906),
+        ["Time"] = 5,
+        ["AttackName"] = "Sans_GasterBlaster"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Mods"):WaitForChild("Sans_GasterBlaster"):WaitForChild("Sans_GasterBlaster"):InvokeServer(unpack(args))
