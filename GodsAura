@@ -1,0 +1,6 @@
+while true do
+wait(.0)
+
+game:GetService("Players").LocalPlayer.Character.String.ItoBarrage.StringUp:FireServer()
+
+end
