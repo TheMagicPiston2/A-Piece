@@ -2,7 +2,7 @@ while true do
 wait(.0)
 
 local args = {
-    [1] = Vector3.new(9.672626495361328, 3.445363998413086, -400.0003967285156)
+    [1] = Vector3.new(16.215456008911133, 3.445363998413086, -405.5435485839844)
 }
 
 game:GetService("Players").LocalPlayer.Character.String.ItoBarrage.RemoteEvent:FireServer(unpack(args))
