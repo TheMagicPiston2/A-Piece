@@ -1,0 +1,6 @@
+local args = {
+    [1] = "Skill1",
+    [2] = "Holding"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("RedRevRE"):FireServer(unpack(args))
