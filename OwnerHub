@@ -1,0 +1,78 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/UI-Libraries/main/ShayrenClient"))() --you can go into the github link and copy all of it and modify it for yourself.
+local Window = Library:CreateWindow("Elysian - A Piece [Owner Edition]", Vector2.new(492, 598), Enum.KeyCode.Delete) --you can change your UI keybind
+local Legitbot = Window:CreateTab("Legit") --you can rename this tab to whatever you want --you can also change the tabs code, for example "AimingTab" can be changed to "FunnyCoolTab" etc.
+
+
+local WorkInProgress = Legitbot:CreateSector("Silent-Aim (WIP)", "left")
+
+local ToggleBind = WorkInProgress:AddToggle("Toggle", false, function(e)
+
+end)
+
+ToggleBind:AddKeybind()
+
+local Raging = Window:CreateTab("Rage")
+
+local Haki = Raging:CreateSector("HaoHaki", "left")
+
+Haki:AddButton("Haki Spam - HaoHaki", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/HaoHakiSpam"))()
+end)
+
+Haki:AddButton("Haki Buy - HaoHaki", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/BuyHaoHaki"))()
+end)
+
+local Miscs = Raging:CreateSector("Misc", "left")
+
+local CustomStand = Window:CreateTab("Custom Stands!")
+
+local CS = CustomStand:CreateSector("Saitama - String Only", "left")
+
+CS:AddButton("Serious Table Flip", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/SeriousTableFlip"))()
+end)
+
+CS:AddButton("No Message Serious Flip", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/NoSeriousTableFlipMSG"))()
+end)
+
+CS:AddButton("Serious Death Penalty", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/DeathPenalty"))()
+end)
+
+CS:AddButton("Serious Sideway Jumps", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/SidewayJumps"))()
+end)
+
+CS:AddButton("Saitamas Aura", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/MenacingAuraV2"))()
+end)
+
+CS:AddButton("Gods Aura (Dangerous)", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/GodsAura"))()
+end)
+
+CS:AddButton("Normal Punch", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/NormalPunch"))()
+end)
+
+CS:AddButton("Moon Jump", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/SeriousMoonJump"))()
+end)
+
+local Sans = CustomStand:CreateSector("Sans - Gaster Blaster", "left")
+
+Sans:AddButton("Gaster Blaster (WIP)", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/Sans"))()
+end)
+
+local Garou = CustomStand:CreateSector("Cosmic Garou", "right")
+
+Garou:AddButton("Cosmic Ball", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/Naruto"))()
+end)
+
+Garou:AddButton("Eradication Ball", function(IhateGayPeople)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston2/A-Piece/main/PowerUpV2"))()
+end)
